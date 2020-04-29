@@ -11,5 +11,7 @@ Contents:<br/>
 index.php: HTML, CSS & Javascript<br/>
 createTables.sql: Code to create MySQL tables<br/>
 zipcodelist.php: Gets a list of NYC zip codes for a drop down list<br/>
+getCOVIDAll.php: Gets the historical cumulative COVID test results for all NYC<br/>
+getCOVIDForACounty.php: Gets the historical cumulative COVID test results for a NY county<br/>
 getCOVIDNYforAZip.php: Gets the historical cumulative COVID test results for a zip code<br/>
 nyczipcodes.txt: tab delimited file of NYC zip codes, city and county<br/>
